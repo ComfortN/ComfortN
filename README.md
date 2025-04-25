@@ -7,7 +7,7 @@ Full Stack Developer
 I'm a passionate developer with strong capabilities across the entire stack, from responsive front-end interfaces to robust backend systems.
 
 *   🌍  I'm based in South Africa
-*   ✉️  You can contact me at [Nqobilecomfyngwenya@gmail.com](mailto:Nqobilecomfyngwenya@gmail.com)### Skills
+*   ✉️  You can contact me at [Nqobilecomfyngwenya@gmail.com](mailto:Nqobilecomfyngwenya@gmail.com)
 
 
 ## 🌐 Socials:
