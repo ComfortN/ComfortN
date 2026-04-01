@@ -11,7 +11,7 @@ I'm a passionate developer with strong capabilities across the entire stack, fro
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/comfort-ngwenya-35053a1a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nqobilecomfyngwenya@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=github&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/comfort-ngwenya-35053a1a1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Nqobilecomfyngwenya@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-%2312100E.svg?logo=github&logoColor=white)]([https://your-portfolio-link.com](https://nqobile-portfolio.lovable.app/))
 
 
 <p align="left">
